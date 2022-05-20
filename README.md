@@ -1,2 +1,3 @@
 # Git
-Git class practice
+Git class practise
+
